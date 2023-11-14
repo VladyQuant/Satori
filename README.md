@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 * Redux
 
 ## Data used.
-Random 100 rows data were generated, using a Python script. They are in [file](Dashboard\src\data\mock_transactions.js).
+Random 100 rows data were generated, using a Python script. They are in [file](Dashboard/src/data/mock_transactions.js).
 
 The dashboard loads data directly from the file. No database is used.
 
