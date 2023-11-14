@@ -4,6 +4,8 @@ using Typescript, React and Redux.
 The following [tutorial](https://www.youtube.com/watch?v=sm7XTZ9MH2A) is used for building it.
 
 ## Project Build Using
+!!!Important. Node version 14.17.0 is used.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 * Next.js
 * React
